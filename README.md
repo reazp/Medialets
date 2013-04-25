@@ -2,7 +2,7 @@ Medialets
 =========
 
 
-This project is about taking selef serve coustomer into Medialets system. User will be able to comto this site and fill out the form and data sent out to out Salesforce account to further validation and to distribute across our sales team.
+This project is about taking selef serve coustomer into Medialets system. User will be able to come to this site and fill out the form and data sent out to out Salesforce account to further validation and to distribute across our sales team.
 
 This project is a UI form and some java script validation to make sure user enter valid data.
 
