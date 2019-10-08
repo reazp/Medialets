@@ -30,4 +30,4 @@ Happy Testing :)
 web application to design this test framework. All the validation are UI based which can be done on any public faceing web application using
 SeleniumRC or Webdriver API. Hope you are smart enough to understand what is "public faceing" mean. Enjoy!!"
 
-Please feel free to contact me for further question @ "reaz@rpatwary.com"
+Please feel free to contact me for further question @ "reaznyc@gmail.com"
